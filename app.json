@@ -16,13 +16,13 @@
     "success_url" : "https://t.me/URL_UploaderAJ_Bot",
     "env" : {
         "BOT_TOKEN" : {
-            "description" : "Get From https://t.me/BotFather"
+            "description" : "5780191853:AAFHpHLu_iuIHoicdza-KaBZiQxNGqnCU_c"
         },
         "API_ID" : {
-            "description" : "Get From https://my.telegram.org"
+            "description" : "20548882"
         },
         "API_HASH" : {
-            "description" : "Get From https://my.telegram.org"
+            "description" : "2e629ea85bfce61b7ab4d01062029882"
         }
     },
     "stack" : "heroku-20",
